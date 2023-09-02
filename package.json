@@ -1,9 +1,9 @@
 {
   "name": "steamwebapi-node",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "SteamWebApi package NodeJS",
   "main": "dist/index.js",
-  "types" : "dist/index.d.ts",
+  "types": "dist/index.d.ts",
   "repository": "https://github.com/gabrielmzl/steamwebapi.git",
   "author": "gabrielmzl",
   "license": "MIT",
@@ -25,5 +25,9 @@
     "@types/node": "^20.5.8",
     "ts-node": "^10.9.1",
     "typescript": "^5.2.2"
-  }
+  },
+  "keywords": [
+    "steamwebapi",
+    "steam api"
+  ]
 }
